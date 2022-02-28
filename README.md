@@ -9,3 +9,6 @@ Contiene
 
 
 Se sugiere bajar el arhivo ZIP para manipular el proyecto Java.
+
+
+En términos generales, representa una base de datos de una escuela.
