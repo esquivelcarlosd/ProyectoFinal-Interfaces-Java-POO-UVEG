@@ -5,6 +5,7 @@ Contiene
 -3 clases
 -1 clase padre
 -1 interfaz 
+-1 código main
 
 
 Se sugiere bajar el arhivo ZIP para manipular el proyecto Java.
